@@ -2,8 +2,8 @@
 <h3 align="center">Long Life Learner</h3>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ndraa124&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" width="400"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndraa124&layout=compact" height=150 width="300"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=adjie123&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adjie123&layout=compact" height=150 width="300"/>
 </p>
 
 
